@@ -1,0 +1,171 @@
+{
+    "header": {
+        "openTime": "Open time: 8:00 - 18:00 Monday - Sunday",
+        "login": "Login",
+        "register": "Register",
+        "support": "SUPPORT: (04) 6674 2332 - (04) 3786 8904",
+        "searchPlaceholder": "Search...",
+        "cart": "Cart",
+        "home": "Home",
+        "about": "About",
+        "products": "Products",
+        "newProducts": "New Products",
+        "news": "News",
+        "contact": "Contact",
+        "product1": "Hanging Pots",
+        "product2": "Flower Plants",
+        "product3": "Climbing Plants",
+        "product4": "Table Plants",
+        "product5": "Lucky Plants",
+        "product6": "Decorative Plants",
+        "product7": "Indoor Plants",
+        "newProduct1": "New Hanging Pots",
+        "newProduct2": "New Flower Plants",
+        "newProduct3": "New Climbing Plants",
+        "newProduct4": "New Table Plants",
+        "newProduct5": "New Lucky Plants",
+        "newProduct6": "New Decorative Plants",
+        "newProduct7": "New Indoor Plants"
+    },
+    
+    "footer": {
+        "channelInfo": "INFORMATION CHANNEL FROM US",
+        "followUs": "Follow Us",
+        "emailSubscription": "SIGN UP TO RECEIVE EMAILS FROM US",
+        "subscribe": "Subscribe",
+        "aboutUs": "Green shop was established in 8/2010 and has been trusted by customers during its operation. The store has been growing day by day.",
+        "phone": "Phone: (84-4) 66.558.868",
+        "email": "info@dkt.com.vn",
+        "customerInfo": "CUSTOMER INFORMATION",
+        "myAccount": "My Account",
+        "wishlist": "Wishlist",
+        "purchaseHistory": "Purchase History",
+        "returnPolicy": "Return Policy",
+        "feedback": "Feedback",
+        "serviceSupport": "SERVICE SUPPORT",
+        "storeSystem": "Store System",
+        "buyGuide": "Buying Guide",
+        "paymentGuide": "Payment Guide",
+        "rewardPoints": "Reward Points",
+        "faq": "FAQ",
+        "policy": "INCENTIVES",
+        "shippingPolicy": "Shipping Policy",
+        "returnProductPolicy": "Return Product Policy",
+        "warrantyPolicy": "Warranty Policy",
+        "newProductsIntro": "New Products Introduction",
+        "installmentPolicy": "Installment Policy",
+        "news": "NEWS",
+        "newPosts": "New Posts",
+        "promotion": "Promotion",
+        "recruitment": "Recruitment",
+        "download": "Download",
+        "tags": "Tags",
+        "sitemap": "Sitemap",
+        "productCategories": "Product Categories",
+        "cooperation": "Cooperation",
+        "contactInfo": "Contact Information",
+        "designBy": "Designed by Bizweb ©"
+    },
+
+    "productFeature": {
+        "title": "Featured Products",
+        "common": {
+            "newTag": "NEW",
+            "discountTag-50": "-50%",
+            "discountTag-25": "-25%",
+            "buyNow": "BUY NOW"
+        }
+    },
+
+    "productBestsale": {
+        "title": "Best-Selling Products"
+    },
+    
+    "productDeal": {
+        "title": "Promotional Products"
+    },
+
+    "productNew": {
+        "title": "New Product"
+    },
+    
+    "homeNew": {
+        "title": "News",
+        "common": "Read more"
+    },
+
+    "address": {
+        "home": "Home",
+        "product": "Products",
+        "news": "News",
+        "login": "Login",
+        "register": "Register"
+    },
+
+    "productPage": {
+        "leftMenu": {
+            "productCategory": "Product Category",
+            "option1": "Hanging Pots (10)",
+            "option2": "Flower Plants (5)",
+            "option3": "Climbing Plants",
+            "option4": "Table Plants",
+            "option5": "Lucky Plants",
+            "option6": "Decorative Plants",
+            "option7": "CIndoor Plants",
+            "priceCategory": "Search by Price",
+            "price1": "$8.70 - $17.39",
+            "price2": "$17.39 - $26.09",
+            "price3": "$26.09 - $34.78",
+            "price4": "$34.78 - $43.48",
+            "price5": "$43.48 - $52.17",
+            "colorCategory": "Search by Color",
+            "green": "Green",
+            "orange": "Orange",
+            "violet": "Violet",
+            "blue": "Blue",
+            "yellow": "Yellow",
+            "pink": "Pink"
+        },
+
+        "sort": {
+            "title": "Sort by",
+            "label": "Product name",
+            "alpha-asc": "A → Z",
+            "alpha-desc": "Z → A",
+            "price-asc": "Price: Low to High",
+            "price-desc": "Price: High to Low",
+            "created-desc": "Newest",
+            "created-asc": "Oldest"
+        },
+
+        "pageButton": {
+            "nextButton": "Next Page",
+            "prevButton": "Previous Page"
+        }
+    },
+
+    "register": {
+        "title1": "PERSONAL INFORMATION",
+        "title2": "ACCOUNT INFORMATION",
+        "name": "Full Name",
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "website": "Your Website",
+        "checkbox": "Subscribe to email updates",
+        "pass": "Password",
+        "rePass": "Re-enter Password",
+        "buttonPrev": "BACK",
+        "buttonRegis": "REGISTER"
+    },
+
+    "login": {
+        "title1": "PERSONAL INFORMATION",
+        "title2": "DON'T HAVE AN ACCOUNT YET?",
+        "email": "Your email",
+        "pass": "Password",
+        "remember": "Remember account",
+        "forgot": "Forgot password?",
+        "notice": "Register now to shop quickly and easily! Also, enjoy many policies and offers for Citybike members.",
+        "buttonLogin": "LOGIN"
+    }
+}

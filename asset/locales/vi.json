@@ -1,0 +1,171 @@
+{
+    "header": {
+        "openTime": "Giờ mở cửa: 8:00 - 18:00 Thứ Hai - Chủ Nhật",
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "support": "HỖ TRỢ: (04) 6674 2332 - (04) 3786 8904",
+        "searchPlaceholder": "Tìm kiếm...",
+        "cart": "Giỏ hàng",
+        "home": "TRANG CHỦ",
+        "about": "GIỚI THIỆU",
+        "products": "SẢN PHẨM",
+        "newProducts": "SẢN PHẨM MỚI",
+        "news": "TIN TỨC",
+        "contact": "LIÊN HỆ",
+        "product1": "Cây chậu treo",
+        "product2": "Cây có hoa",
+        "product3": "Cây dây leo",
+        "product4": "Cây để bàn",
+        "product5": "Cây may mắn",
+        "product6": "Cây trang trí",
+        "product7": "Cây nội thất",
+        "newProduct1": "Cây chậu treo mới",
+        "newProduct2": "Cây có hoa mới",
+        "newProduct3": "Cây dây leo mới",
+        "newProduct4": "Cây để bàn mới",
+        "newProduct5": "Cây may mắn mới",
+        "newProduct6": "Cây trang trí mới",
+        "newProduct7": "Cây nội thất mới"
+    },
+
+    "footer": {
+        "channelInfo": "KÊNH THÔNG TIN TỪ CHÚNG TÔI",
+        "followUs": "Theo dõi chúng tôi",
+        "emailSubscription": "ĐĂNG KÝ NHẬN EMAIL TỪ CHÚNG TÔI",
+        "subscribe": "Đăng ký",
+        "aboutUs": "Green shop được thành lập từ 8/2010 được sự tin tưởng của khách hàng trong suốt thời gian hoạt động đến nay cửa hàng ngày một phát triển",
+        "phone": "Điện thoại: (84-4) 66.558.868",
+        "email": "info@dkt.com.vn",
+        "customerInfo": "THÔNG TIN KHÁCH HÀNG",
+        "myAccount": "Tài khoản của tôi",
+        "wishlist": "Sản phẩm yêu thích",
+        "purchaseHistory": "Lịch sử mua hàng",
+        "returnPolicy": "Chính sách đổi trả",
+        "feedback": "Góp ý, khiếu nại",
+        "serviceSupport": "HỖ TRỢ DỊCH VỤ",
+        "storeSystem": "Hệ thống cửa hàng",
+        "buyGuide": "Hướng dẫn mua hàng",
+        "paymentGuide": "Hướng dẫn thanh toán",
+        "rewardPoints": "Tích điểm đổi quà",
+        "faq": "Câu hỏi thường gặp",
+        "policy": "CHÍNH SÁCH ƯU ĐÃI",
+        "shippingPolicy": "Chính sách giao hàng",
+        "returnProductPolicy": "Chính sách đổi trả sản phẩm",
+        "warrantyPolicy": "Chính sách bảo hành",
+        "newProductsIntro": "Giới thiệu sản phẩm mới",
+        "installmentPolicy": "Chính sách trả góp",
+        "news": "TIN TỨC",
+        "newPosts": "Tin mới",
+        "promotion": "Khuyến mãi",
+        "recruitment": "Tuyển dụng",
+        "download": "Download",
+        "tags": "Tags",
+        "sitemap": "Sitemap",
+        "productCategories": "Danh mục sản phẩm",
+        "cooperation": "Hợp tác",
+        "contactInfo": "Thông tin liên hệ",
+        "designBy": "Thiết kế bởi Bizweb ©"
+    },
+
+    "productFeature": {
+        "title": "Sản phẩm nổi bật",
+        "common": {
+            "newTag": "MỚI",
+            "discountTag-50": "-50%",
+            "discountTag-25": "-25%",
+            "buyNow": "MUA NGAY"
+        }
+    },
+
+    "productBestsale": {
+        "title": "Sản phẩm mua nhiều"
+    },
+    
+    "productDeal": {
+        "title": "Sản phẩm khuyến mãi"
+    },
+
+    "productNew": {
+        "title": "Sản phẩm mới"
+    },
+    
+    "homeNew": {
+        "title": "Tin tức",
+        "common": "Đọc tiếp"
+    },
+
+    "address": {
+        "home": "Trang chủ",
+        "product": "Danh sách sản phẩm",
+        "news": "Tin tức",
+        "login":"Đăng nhập",
+        "register":"Đăng ký"
+    },
+
+    "productPage": {
+        "leftMenu": {
+            "productCategory": "Danh mục sản phẩm",
+            "option1": "Cây chậu treo (10)",
+            "option2": "Cây có hoa (5)",
+            "option3": "Cây dây leo",
+            "option4": "Cây để bàn",
+            "option5": "Cây may mắn",
+            "option6": "Cây trang trí",
+            "option7": "Cây nội thất",
+            "priceCategory": "Tìm theo giá",
+            "price1": "200.000 Đ - 400.000 Đ",
+            "price2": "400.000 Đ - 600.000 Đ",
+            "price3": "600.000 Đ - 800.000 Đ",
+            "price4": "800.000 Đ - 1.000.000 Đ",
+            "price5": "1.000.000 Đ - 1.200.000 Đ",
+            "colorCategory": "Tìm theo màu",
+            "green": "Xanh cây",
+            "orange": "Đỏ cam",
+            "violet": "Tím",
+            "blue": "Xanh trời",
+            "yellow": "Vàng",
+            "pink": "Hồng"
+        },
+
+        "sort": {
+            "title": "Sắp xếp theo",
+            "label": "Tên sản phẩm",
+            "alpha-asc": "A → Z",
+            "alpha-desc": "Z → A",
+            "price-asc": "Giá giảm dần",
+            "price-desc": "Giá tăng dần",
+            "created-desc": "Hàng mới nhất",
+            "created-asc": "Hàng cũ nhất"
+        },
+
+        "pageButton": {
+            "nextButton": "Trang cuối",
+            "prevButton": "Trang trước"
+        }
+    },
+
+    "register": {
+        "title1": "THÔNG TIN CÁ NHÂN",
+        "title2": "THÔNG TIN TÀI KHOẢN",
+        "name": "Họ và tên",
+        "phone": "Số ĐT",
+        "email": "Địa chỉ email",
+        "website": "Website của bạn",
+        "checkbox": "Đăng ký nhận thông tin qua email",
+        "pass": "Mật khẩu",
+        "rePass": "Nhập lại mật khẩu",
+        "buttonPrev": "QUAY LẠI",
+        "buttonRegis": "ĐĂNG KÝ"
+    },
+
+    "login": {
+        "title1": "THÔNG TIN CÁ NHÂN",
+        "title2": "BẠN CHƯA CÓ TÀI KHOẢN ?",
+        "email": "Email của bạn",
+        "pass": "Mật khẩu",
+        "remember": "Ghi nhớ tài khoản",
+        "forgot": "Bạn quên mật khẩu ?",
+        "notice": "Đăng ký tài khoản ngay để có thể mua hàng nhanh chóng và dễ dàng hơn! Ngoài ra còn có rất nhiều chính sách và ưu đãi cho các thành viên citybike",
+        "buttonLogin": "ĐĂNG NHẬP" 
+    }
+}
